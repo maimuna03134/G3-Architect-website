@@ -15,7 +15,10 @@
 .hero-section {
     background: rgba(255, 144, 14, 0.1);
 }
-
+.hero-container{
+    max-width: 1280px;
+    margin: auto;
+}
 .btn-primary {
     border-radius: 10px;
     background: rgb(255, 144, 14);
@@ -42,7 +45,7 @@
 }
 
 .title {
-    font-size: 45px;
+    font-size: 2.5rem;
     font-weight: 700;
     color: rgb(19, 19, 19);
 }
